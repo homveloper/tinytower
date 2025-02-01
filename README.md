@@ -2,7 +2,7 @@
 
 TinyTower is an AI-generated tower defense game prototype built with the power of Go, raylib-go, chipmunk, and ChatGPT! 🤖✨
 
-<img src="tinytower.png" alt="TinyTower Screenshot" style="width:50%;">
+<img src="tinytower.png" alt="TinyTower Screenshot" style="width:80%;">
 
 ## Overview 📖
 
